@@ -1,0 +1,6 @@
+Привет - текст добавлен во второй файл
+
+Hello - new commitment
+
+New function added
+here is new code
